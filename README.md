@@ -22,7 +22,7 @@ For details, see [Legacy HTML vs. new .mokuro format](#legacy-html-vs-new-mokuro
 mokuro uses [comic-text-detector](https://github.com/dmMaze/comic-text-detector) for text detection
 and [manga-ocr](https://github.com/kha-white/manga-ocr) for OCR.
 
-Try running on your manga in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kha-white/mokuro/blob/master/notebooks/mokuro_demo.ipynb)
+Try running on your manga in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KojoZero/mokuro/blob/master/notebooks/mokuro_colab.ipynb)
 
 See also:
 - [mokuro-reader](https://github.com/ZXY101/mokuro-reader), a web reader for mokuro, developed by ZXY101
